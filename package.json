@@ -25,7 +25,6 @@
   },
   "eslintConfig": {
     "extends": [
-      "babel-eslint",
       "react-app",
       "react-app/jest"
     ]
@@ -46,3 +45,4 @@
     "eslint": "^8.42.0"
   }
 }
+
