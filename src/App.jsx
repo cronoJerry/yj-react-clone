@@ -208,7 +208,7 @@ function App() {
           <TabList display={'flex'} justifyContent={'center'}>
             <Tab>
               <Text fontSize={'20px'} fontWeight={700}>
-                구직자를 위한 교육{' '}
+                구직자를 위한 교육
               </Text>
             </Tab>
             <Tab>
